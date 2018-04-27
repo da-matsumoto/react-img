@@ -7,6 +7,7 @@ class ShowImage extends React.Component {
         return (
         <div>
             <p>hello</p>
+            <img src="../public/img/icon.png" />
         </div>
         )
     }
